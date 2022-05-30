@@ -1,2 +1,0 @@
-# GRBot
-Bot for gorbach
